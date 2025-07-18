@@ -1,0 +1,78 @@
+.tituloPrincipal{
+    text-align: center;
+    color: brown;
+}
+
+.subtitulo {
+    color: brown;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse; 
+    font-family: monospace; 
+    width: 100%;
+    table-layout: fixed;
+}
+
+
+td, th{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    background-color: brown;
+    border: none;
+    height: 2px;
+    width: 100%;
+}
+
+h5{
+    color: brown;
+    margin-bottom: 0%;
+}
+
+
+
+tr {
+    text-align: right;
+}
+
+th {
+    text-align: right;
+    font-style: italic;
+    color: brown;
+    font-size: small;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+.direita {
+    text-align: right;
+}
+
+strong {
+    color: brown;
+}
+
+.trVazia{
+    height: 10px;
+}
+
+.linhaFinal strong{
+    color: black
+}
+
+.linhaFinalFundo {
+    background-color: #F4A460;
+    height: 40px;
+}
+
+
+
+
